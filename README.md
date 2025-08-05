@@ -1,4 +1,4 @@
-# sql-DataWarehouse-Project
+# SQL-DataWarehouse-Project
   ### Building  data warehouse with SQL Server, include ETL processing,  data modeling and analysis
 
 # Project Requirement:
